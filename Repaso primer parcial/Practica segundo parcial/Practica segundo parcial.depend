@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696051755 source:c:\users\gasty\onedrive\escritorio\utn\programacion y laboratorio 2\simulacro de lab 2 (sin filas)\repaso primer parcial\practica segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
